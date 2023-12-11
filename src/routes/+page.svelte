@@ -28,4 +28,11 @@ Other commands fail as well
 VSCode extension status page : 
 Activation Event:Startup
 Activation Time:118ms
+
+
+If I uninstall all other extensions, uninstall Inlang, install inlang, I get : 
+Activation Event:onStartupFinished
+Activation Time:72ms
+
+And still the same error
 -->
